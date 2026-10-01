@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- YouTube Shorts Ribbon S-Glyph -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M17.77,10.32 L16.57,9.82 L17.77,9.32 A3.81,3.81 0,0 0,17.77 3.93 A3.81,3.81 0,0 0,12.38 3.93 L6.73,9.58 A3.81,3.81 0,0 0,8.89 16.09 L10.09,16.59 L8.89,17.09 A3.81,3.81 0,0 0,8.89 22.48 A3.81,3.81 0,0 0,14.28 22.48 L19.93,16.83 A3.81,3.81 0,0 0,17.77 10.32 Z"/>
+    <!-- Play Triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,14.5 L10,9.5 L14.5,12 Z"/>
+</vector>
